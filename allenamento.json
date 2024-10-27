@@ -1,0 +1,108 @@
+{
+    "allenamento": {
+      "giorni": [
+        {
+          "giorno": "Giorno 1",
+          "tipo": "Spinta",
+          "esercizi": [
+            {
+              "nome": "Squat con bilanciere",
+              "serie": 4,
+              "ripetizioni": 6
+            },
+            {
+              "nome": "Panca piana con bilanciere",
+              "serie": 4,
+              "ripetizioni": 6
+            },
+            {
+              "nome": "Affondi con manubri",
+              "serie": 3,
+              "ripetizioni": 8,
+              "per_gamba": true
+            },
+            {
+              "nome": "Dip alle parallele",
+              "serie": 3,
+              "ripetizioni": 8
+            },
+            {
+              "nome": "Plank",
+              "serie": 3,
+              "durata": "60 secondi"
+            }
+          ]
+        },
+        {
+          "giorno": "Giorno 2",
+          "tipo": "Trazione",
+          "esercizi": [
+            {
+              "nome": "Stacchi da terra",
+              "serie": 4,
+              "ripetizioni": 6
+            },
+            {
+              "nome": "Trazioni alla sbarra",
+              "serie": 4,
+              "ripetizioni": 6,
+              "note": "Aggiungi peso se necessario"
+            },
+            {
+              "nome": "Rematore con bilanciere",
+              "serie": 3,
+              "ripetizioni": 8
+            },
+            {
+              "nome": "Curl con manubri",
+              "serie": 3,
+              "ripetizioni": 10
+            },
+            {
+              "nome": "Russian twist",
+              "serie": 3,
+              "ripetizioni": 20
+            }
+          ]
+        },
+        {
+          "giorno": "Giorno 3",
+          "tipo": "Full Body",
+          "esercizi": [
+            {
+              "nome": "Press militare con bilanciere",
+              "serie": 4,
+              "ripetizioni": 6
+            },
+            {
+              "nome": "Squat frontale",
+              "serie": 3,
+              "ripetizioni": 8
+            },
+            {
+              "nome": "Pull-up presa inversa",
+              "serie": 3,
+              "ripetizioni": 8
+            },
+            {
+              "nome": "Estensioni tricipiti sopra la testa",
+              "serie": 3,
+              "ripetizioni": 10
+            },
+            {
+              "nome": "Leg raises",
+              "serie": 3,
+              "ripetizioni": 15
+            }
+          ]
+        }
+      ],
+      "linee_guida": {
+        "riscaldamento": "Inizia ogni sessione con 10 minuti di riscaldamento leggero e stretching dinamico.",
+        "tecnica": "Mantieni una forma corretta durante gli esercizi per prevenire infortuni.",
+        "recupero": "Riposa 1-2 minuti tra le serie.",
+        "progressione": "Aumenta gradualmente i pesi quando ti senti a tuo agio.",
+        "riposo": "Assicurati di avere almeno un giorno di riposo tra le sessioni di forza."
+      }
+    }
+  }

@@ -1,0 +1,250 @@
+{
+    "dieta": {
+      "piano_alimentare": {
+        "colazione": {
+          "alimenti": [
+            { "nome": "Fiocchi d'avena", "quantità": "60g" },
+            { "nome": "Latte scremato o vegetale", "quantità": "250ml" },
+            { "nome": "Banana", "quantità": "1" },
+            { "nome": "Burro di arachidi", "quantità": "2 cucchiai" },
+            { "nome": "Miele", "quantità": "1 cucchiaino" }
+          ]
+        },
+        "spuntino_mattina": {
+          "alimenti": [
+            { "nome": "Yogurt greco naturale", "quantità": "150g" },
+            { "nome": "Frutta secca (mandorle, noci)", "quantità": "1 manciata" },
+            { "nome": "Frutto (mela o pera)", "quantità": "1" }
+          ]
+        },
+        "pranzo": [
+          {
+            "nome": "Petto di pollo alla griglia con riso integrale e verdure",
+            "alimenti": [
+              { "nome": "Petto di pollo alla griglia", "quantità": "150g" },
+              { "nome": "Riso integrale", "quantità": "100g" },
+              { "nome": "Verdure al vapore (broccoli, carote)", "quantità": "a piacere" },
+              { "nome": "Olio extravergine d'oliva", "quantità": "1 cucchiaio" }
+            ]
+          },
+          {
+            "nome": "Pasta integrale con tonno e pomodorini",
+            "alimenti": [
+              { "nome": "Pasta integrale", "quantità": "100g" },
+              { "nome": "Tonno al naturale", "quantità": "150g" },
+              { "nome": "Pomodorini ciliegia", "quantità": "una manciata" },
+              { "nome": "Olive nere", "quantità": "una manciata" },
+              { "nome": "Olio extravergine d'oliva", "quantità": "1 cucchiaio" },
+              { "nome": "Origano o basilico fresco", "quantità": "a piacere" }
+            ]
+          },
+          {
+            "nome": "Insalata di quinoa con pollo e verdure",
+            "alimenti": [
+              { "nome": "Quinoa cotta", "quantità": "100g" },
+              { "nome": "Petto di pollo grigliato", "quantità": "150g" },
+              { "nome": "Verdure crude (peperoni, cetrioli, carote)", "quantità": "a piacere" },
+              { "nome": "Semi di girasole o zucca", "quantità": "1 cucchiaio" },
+              { "nome": "Olio extravergine d'oliva", "quantità": "1 cucchiaio" },
+              { "nome": "Succo di limone", "quantità": "a piacere" }
+            ]
+          },
+          {
+            "nome": "Wrap integrale con tacchino e avocado",
+            "alimenti": [
+              { "nome": "Tortilla integrale", "quantità": "1" },
+              { "nome": "Fette di tacchino arrosto", "quantità": "100g" },
+              { "nome": "Avocado", "quantità": "mezzo" },
+              { "nome": "Lattuga", "quantità": "a piacere" },
+              { "nome": "Pomodoro a fette", "quantità": "a piacere" },
+              { "nome": "Yogurt greco con erbe aromatiche", "quantità": "2 cucchiai" }
+            ]
+          },
+          {
+            "nome": "Insalata di pasta fredda con mozzarella e basilico",
+            "alimenti": [
+              { "nome": "Pasta integrale", "quantità": "100g" },
+              { "nome": "Mozzarella light", "quantità": "80g" },
+              { "nome": "Pomodorini", "quantità": "una manciata" },
+              { "nome": "Basilico fresco", "quantità": "a piacere" },
+              { "nome": "Olio extravergine d'oliva", "quantità": "1 cucchiaio" }
+            ]
+          },
+          {
+            "nome": "Burger di tacchino su pane integrale",
+            "alimenti": [
+              { "nome": "Burger di tacchino", "quantità": "150g" },
+              { "nome": "Pane integrale", "quantità": "1 panino" },
+              { "nome": "Lattuga", "quantità": "a piacere" },
+              { "nome": "Pomodoro a fette", "quantità": "a piacere" },
+              { "nome": "Avocado", "quantità": "a piacere" }
+            ]
+          },
+          {
+            "nome": "Risotto integrale con funghi e parmigiano",
+            "alimenti": [
+              { "nome": "Riso integrale", "quantità": "100g" },
+              { "nome": "Funghi misti", "quantità": "150g" },
+              { "nome": "Parmigiano grattugiato", "quantità": "20g" },
+              { "nome": "Brodo vegetale", "quantità": "q.b." },
+              { "nome": "Olio extravergine d'oliva", "quantità": "1 cucchiaio" },
+              { "nome": "Prezzemolo fresco", "quantità": "a piacere" }
+            ]
+          }
+        ],
+        "spuntino_pomeridiano": {
+          "alimenti": [
+            { "nome": "Pane integrale", "quantità": "2 fette" },
+            { "nome": "Bresaola o prosciutto cotto magro", "quantità": "80g" },
+            { "nome": "Formaggio magro", "quantità": "1 fetta" }
+          ]
+        },
+        "cena": [
+          {
+            "nome": "Salmone al forno con quinoa e insalata mista",
+            "alimenti": [
+              { "nome": "Salmone al forno", "quantità": "200g" },
+              { "nome": "Quinoa", "quantità": "80g" },
+              { "nome": "Insalata mista", "quantità": "a piacere" },
+              { "nome": "Olio extravergine d'oliva", "quantità": "1 cucchiaio" }
+            ]
+          },
+          {
+            "nome": "Filetto di manzo con patate dolci e asparagi",
+            "alimenti": [
+              { "nome": "Filetto di manzo magro", "quantità": "200g" },
+              { "nome": "Patate dolci al forno", "quantità": "150g" },
+              { "nome": "Asparagi grigliati", "quantità": "a piacere" },
+              { "nome": "Olio extravergine d'oliva", "quantità": "1 cucchiaio" },
+              { "nome": "Spezie (rosmarino, pepe nero)", "quantità": "a piacere" }
+            ]
+          },
+          {
+            "nome": "Omelette di uova e spinaci con pane integrale",
+            "alimenti": [
+              { "nome": "Uova", "quantità": "3 intere o 2 intere + 2 albumi" },
+              { "nome": "Spinaci freschi", "quantità": "una manciata" },
+              { "nome": "Feta sbriciolata", "quantità": "30g" },
+              { "nome": "Pane integrale tostato", "quantità": "2 fette" },
+              { "nome": "Pomodorini", "quantità": "a piacere" },
+              { "nome": "Olio d'oliva", "quantità": "1 cucchiaino" }
+            ]
+          },
+          {
+            "nome": "Stir-fry di tofu con verdure e riso basmati",
+            "alimenti": [
+              { "nome": "Tofu al naturale", "quantità": "200g" },
+              { "nome": "Riso basmati integrale", "quantità": "80g" },
+              { "nome": "Mix di verdure (broccoli, peperoni, carote, funghi)", "quantità": "a piacere" },
+              { "nome": "Salsa di soia a basso contenuto di sodio", "quantità": "2 cucchiai" },
+              { "nome": "Olio di sesamo", "quantità": "1 cucchiaio" },
+              { "nome": "Semi di sesamo", "quantità": "per guarnire" }
+            ]
+          },
+          {
+            "nome": "Gamberetti saltati con cous cous e verdure",
+            "alimenti": [
+              { "nome": "Gamberetti", "quantità": "200g" },
+              { "nome": "Cous cous integrale", "quantità": "80g" },
+              { "nome": "Zucchine e peperoni", "quantità": "a piacere" },
+              { "nome": "Olio extravergine d'oliva", "quantità": "1 cucchiaio" },
+              { "nome": "Spezie (curcuma, paprika)", "quantità": "a piacere" }
+            ]
+          },
+          {
+            "nome": "Pollo al curry con riso basmati e broccoli",
+            "alimenti": [
+              { "nome": "Petto di pollo", "quantità": "150g" },
+              { "nome": "Riso basmati integrale", "quantità": "80g" },
+              { "nome": "Broccoli al vapore", "quantità": "a piacere" },
+              { "nome": "Latte di cocco leggero", "quantità": "100ml" },
+              { "nome": "Curry in polvere", "quantità": "a piacere" },
+              { "nome": "Olio di cocco o d'oliva", "quantità": "1 cucchiaio" }
+            ]
+          },
+          {
+            "nome": "Zuppa di lenticchie con pane integrale tostato",
+            "alimenti": [
+              { "nome": "Lenticchie", "quantità": "150g" },
+              { "nome": "Verdure miste (carote, sedano, cipolla)", "quantità": "a piacere" },
+              { "nome": "Brodo vegetale", "quantità": "q.b." },
+              { "nome": "Pomodori pelati", "quantità": "200g" },
+              { "nome": "Pane integrale tostato", "quantità": "2 fette" },
+              { "nome": "Spezie (cumino, paprika)", "quantità": "a piacere" }
+            ]
+          }
+        ],
+        "spuntino_serale": {
+          "opzionale": true,
+          "alimenti": [
+            { "nome": "Latte scremato o vegetale", "quantità": "250ml" },
+            { "nome": "Fiocchi di latte o yogurt", "quantità": "100g" }
+          ]
+        }
+      },
+      "lista_della_spesa": {
+        "proteine": [
+          { "nome": "Petto di pollo", "quantità": "1 kg" },
+          { "nome": "Salmone o pesce ricco di omega-3", "quantità": "1 kg" },
+          { "nome": "Bresaola o prosciutto cotto magro", "quantità": "500g" },
+          { "nome": "Yogurt greco naturale", "quantità": "7 vasetti" },
+          { "nome": "Fiocchi di latte o formaggio magro", "quantità": "500g" },
+          { "nome": "Latte scremato o vegetale", "quantità": "2 litri" },
+          { "nome": "Uova", "quantità": "12" },
+          { "nome": "Tonno al naturale", "quantità": "q.b." },
+          { "nome": "Filetto di manzo magro", "quantità": "q.b." },
+          { "nome": "Tacchino arrosto", "quantità": "q.b." },
+          { "nome": "Tofu", "quantità": "q.b." },
+          { "nome": "Gamberetti", "quantità": "q.b." },
+          { "nome": "Mozzarella light", "quantità": "q.b." },
+          { "nome": "Feta", "quantità": "q.b." }
+        ],
+        "carboidrati": [
+          { "nome": "Fiocchi d'avena", "quantità": "500g" },
+          { "nome": "Riso integrale", "quantità": "1 kg" },
+          { "nome": "Quinoa o cous cous", "quantità": "500g" },
+          { "nome": "Pane integrale", "quantità": "1 confezione" },
+          { "nome": "Banane", "quantità": "7" },
+          { "nome": "Frutta fresca (mele, pere, arance)", "quantità": "q.b." },
+          { "nome": "Pasta integrale", "quantità": "q.b." },
+          { "nome": "Tortilla integrali", "quantità": "q.b." },
+          { "nome": "Patate dolci", "quantità": "q.b." },
+          { "nome": "Riso basmati integrale", "quantità": "q.b." },
+          { "nome": "Farro, orzo", "quantità": "q.b." }
+        ],
+        "grassi_sani": [
+          { "nome": "Burro di arachidi", "quantità": "1 barattolo" },
+          { "nome": "Frutta secca mista (mandorle, noci)", "quantità": "300g" },
+          { "nome": "Olio extravergine d'oliva", "quantità": "1 bottiglia" },
+          { "nome": "Avocado", "quantità": "q.b." },
+          { "nome": "Semi vari (girasole, zucca, sesamo)", "quantità": "q.b." },
+          { "nome": "Olio di sesamo", "quantità": "q.b." }
+        ],
+        "verdure_e_legumi": [
+          { "nome": "Broccoli", "quantità": "q.b." },
+          { "nome": "Carote", "quantità": "q.b." },
+          { "nome": "Insalata mista", "quantità": "q.b." },
+          { "nome": "Pomodori", "quantità": "q.b." },
+          { "nome": "Cetrioli", "quantità": "q.b." },
+          { "nome": "Zucchine", "quantità": "q.b." },
+          { "nome": "Peperoni", "quantità": "q.b." },
+          { "nome": "Spinaci freschi", "quantità": "q.b." },
+          { "nome": "Funghi", "quantità": "q.b." },
+          { "nome": "Asparagi", "quantità": "q.b." },
+          { "nome": "Legumi (ceci, lenticchie)", "quantità": "500g" },
+          { "nome": "Frutta di stagione", "quantità": "q.b." }
+        ],
+        "altri": [
+          { "nome": "Miele", "quantità": "q.b." },
+          { "nome": "Spezie ed erbe aromatiche", "quantità": "a piacere" },
+          { "nome": "Salsa di soia a basso contenuto di sodio", "quantità": "q.b." },
+          { "nome": "Yogurt greco", "quantità": "q.b." },
+          { "nome": "Pane integrale", "quantità": "q.b." },
+          { "nome": "Olio di cocco", "quantità": "q.b." },
+          { "nome": "Latte di cocco leggero", "quantità": "q.b." },
+          { "nome": "Pomodori pelati", "quantità": "q.b." },
+          { "nome": "Brodo vegetale", "quantità": "q.b." }
+        ]
+      }
+    }
+  }
