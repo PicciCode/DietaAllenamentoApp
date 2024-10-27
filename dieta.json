@@ -175,7 +175,6 @@
           }
         ],
         "spuntino_serale": {
-          "opzionale": true,
           "alimenti": [
             { "nome": "Latte scremato o vegetale", "quantità": "250ml" },
             { "nome": "Fiocchi di latte o yogurt", "quantità": "100g" }
