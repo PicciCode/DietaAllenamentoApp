@@ -2,7 +2,7 @@ import streamlit as st
 import json
 
 def allenamento():
-    st.markdown("#Allenamento")
+    st.markdown("# Allenamento")
 
     allenamenti=[]
 
