@@ -12,7 +12,7 @@ def dieta():
         with st.expander(f"# {i.capitalize().replace('_',' ')}"):
             for j in data[i]:
                 if isinstance(j,dict):
-                    st.checkbox(f"### {j['nome']}")
+                    st.checkbox(f"# {j['nome']}")
                     df=pd.DataFrame(j['alimenti'])
                     st.dataframe(df,hide_index=True)
                 else:
